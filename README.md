@@ -7,4 +7,6 @@ This is a repository of the Fortran language learning from a beginner, includes 
     
     code是自己写的，可能有一些问题也说不定，有时候遇到无聊的题目就跳过去了，但是大部分都涵盖了
     
+    使用的IDE是codeblocks。
+    
 上传到github上一个是给自己Mark一下，也希望能同一起从零学fortran的人一些同辈帮助。啦啦啦~
